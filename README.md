@@ -6,7 +6,7 @@
 
 ## Environment Requirements
 
-- Privileged/pod container
+- Privileged pod/container
 
 ## Proof-of-Concept
 
