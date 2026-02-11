@@ -12,7 +12,7 @@
 
 
 ```bash
-# run the folliwng commands inside the pod
+# run the following commands inside the pod
 
 # Extract the OverlayFS upperdir path, which maps to a real directory on the host
 host_path=$(sed -n 's/.*upperdir=\([^,]*\).*/\1/p' /proc/mounts)
